@@ -1,3 +1,5 @@
+
+
 .. Coding with Kids documentation master file, created by
    sphinx-quickstart on Tue Oct 17 08:41:21 2017.
    You can adapt this file completely to your liking, but it should at least
@@ -13,6 +15,8 @@ strengthen* some lasting
 **bonds between you and them.**
 
 Here is some new content from VS Code.
+
+And here is some more content -- this time from GitHub.
 
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
