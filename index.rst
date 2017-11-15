@@ -16,6 +16,8 @@ strengthen* some lasting
 
 Here is some new content from VS Code.
 
+Here is a **shiny** new note.
+
 And here is some more content -- this time from GitHub.
 
 Throughout your journey you will 
