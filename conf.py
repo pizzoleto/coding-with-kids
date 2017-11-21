@@ -87,6 +87,17 @@ todo_include_todos = False
 #
 html_theme = 'sphinx_rtd_theme'
 
+def setup(app):
+   app.add_stylesheet('css/custom.css')
+
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
